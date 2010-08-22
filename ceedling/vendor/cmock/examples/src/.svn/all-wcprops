@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/cmock/!svn/ver/168/trunk/examples/src
+END
+AdcTemperatureSensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AdcTemperatureSensor.c
+END
+Model.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Model.c
+END
+AT91SAM7X256.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AT91SAM7X256.h
+END
+TimerConductor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerConductor.c
+END
+TaskScheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TaskScheduler.c
+END
+TemperatureFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TemperatureFilter.c
+END
+AdcTemperatureSensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AdcTemperatureSensor.h
+END
+Model.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Model.h
+END
+TimerConductor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerConductor.h
+END
+TaskScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TaskScheduler.h
+END
+TemperatureCalculator.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cmock/!svn/ver/54/trunk/examples/src/TemperatureCalculator.c
+END
+TemperatureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TemperatureFilter.h
+END
+AdcModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/AdcModel.c
+END
+TemperatureCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TemperatureCalculator.h
+END
+UsartHardware.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartHardware.c
+END
+AdcModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/AdcModel.h
+END
+UsartTransmitBufferStatus.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartTransmitBufferStatus.c
+END
+UsartModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartModel.c
+END
+UsartConfigurator.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartConfigurator.c
+END
+UsartHardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/UsartHardware.h
+END
+UsartTransmitBufferStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartTransmitBufferStatus.h
+END
+Main.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Main.c
+END
+UsartModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/UsartModel.h
+END
+UsartBaudRateRegisterCalculator.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartBaudRateRegisterCalculator.c
+END
+UsartConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartConfigurator.h
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Main.h
+END
+UsartBaudRateRegisterCalculator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartBaudRateRegisterCalculator.h
+END
+ModelConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/ModelConfig.h
+END
+TimerInterruptHandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/TimerInterruptHandler.c
+END
+TimerHardware.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerHardware.c
+END
+Executor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Executor.c
+END
+TimerInterruptHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cmock/!svn/ver/168/trunk/examples/src/TimerInterruptHandler.h
+END
+TimerModel.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerModel.c
+END
+TimerHardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerHardware.h
+END
+TimerConfigurator.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerConfigurator.c
+END
+Executor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/Executor.h
+END
+AdcHardware.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AdcHardware.c
+END
+TimerModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerModel.h
+END
+TimerConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerConfigurator.h
+END
+AdcConductor.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/63/trunk/examples/src/AdcConductor.c
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/cmock/!svn/ver/67/trunk/examples/src/Types.h
+END
+AdcHardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AdcHardware.h
+END
+AdcConductor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/63/trunk/examples/src/AdcConductor.h
+END
+UsartConductor.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartConductor.c
+END
+TimerInterruptConfigurator.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerInterruptConfigurator.c
+END
+UsartConductor.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartConductor.h
+END
+TimerInterruptConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/TimerInterruptConfigurator.h
+END
+UsartPutChar.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartPutChar.c
+END
+IntrinsicsWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/IntrinsicsWrapper.c
+END
+AdcHardwareConfigurator.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cmock/!svn/ver/56/trunk/examples/src/AdcHardwareConfigurator.c
+END
+UsartPutChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/UsartPutChar.h
+END
+IntrinsicsWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/IntrinsicsWrapper.h
+END
+AdcHardwareConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cmock/!svn/ver/47/trunk/examples/src/AdcHardwareConfigurator.h
+END

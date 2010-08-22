@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 74
+unity          http://embunity.svn.sourceforge.net/svnroot/embunity/trunk
+
+END

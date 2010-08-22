@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/cmock/!svn/ver/161/trunk/config
+END
+test_environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/161/trunk/config/test_environment.rb
+END
+production_environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/cmock/!svn/ver/161/trunk/config/production_environment.rb
+END

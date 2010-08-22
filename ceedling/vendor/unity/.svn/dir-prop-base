@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 66
+*.exe
+*.tmp
+.cproject
+.project
+ctags.tmp
+*.out
+tags
+unity_log.txt
+
+END

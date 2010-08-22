@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/cmock/!svn/ver/182/trunk/test/system/test_interactions
+END
+expect_and_return_custom_types.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/cmock/!svn/ver/158/trunk/test/system/test_interactions/expect_and_return_custom_types.yml
+END
+parsing_challenges.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cmock/!svn/ver/161/trunk/test/system/test_interactions/parsing_challenges.yml
+END
+function_pointer_handling.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cmock/!svn/ver/108/trunk/test/system/test_interactions/function_pointer_handling.yml
+END
+stubs_with_callbacks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cmock/!svn/ver/167/trunk/test/system/test_interactions/stubs_with_callbacks.yml
+END
+expect_and_return_treat_as.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/cmock/!svn/ver/153/trunk/test/system/test_interactions/expect_and_return_treat_as.yml
+END
+expect_and_throw.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/cmock/!svn/ver/182/trunk/test/system/test_interactions/expect_and_throw.yml
+END
+unity_ignores.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cmock/!svn/ver/174/trunk/test/system/test_interactions/unity_ignores.yml
+END
+nonstandard_parsed_stuff_1.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/cmock/!svn/ver/155/trunk/test/system/test_interactions/nonstandard_parsed_stuff_1.yml
+END
+nonstandard_parsed_stuff_2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/cmock/!svn/ver/180/trunk/test/system/test_interactions/nonstandard_parsed_stuff_2.yml
+END
+enforce_strict_ordering.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/cmock/!svn/ver/155/trunk/test/system/test_interactions/enforce_strict_ordering.yml
+END
+array_and_pointer_handling.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/cmock/!svn/ver/165/trunk/test/system/test_interactions/array_and_pointer_handling.yml
+END
+fancy_pointer_handling.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cmock/!svn/ver/179/trunk/test/system/test_interactions/fancy_pointer_handling.yml
+END
+ignore_and_return.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cmock/!svn/ver/137/trunk/test/system/test_interactions/ignore_and_return.yml
+END
+all_plugins_but_other_limits.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/cmock/!svn/ver/173/trunk/test/system/test_interactions/all_plugins_but_other_limits.yml
+END
+const_primitives_handling.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/cmock/!svn/ver/108/trunk/test/system/test_interactions/const_primitives_handling.yml
+END
+all_plugins_coexist.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cmock/!svn/ver/167/trunk/test/system/test_interactions/all_plugins_coexist.yml
+END
+struct_union_enum_expect_and_return.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/cmock/!svn/ver/108/trunk/test/system/test_interactions/struct_union_enum_expect_and_return.yml
+END
+basic_expect_and_return.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/cmock/!svn/ver/137/trunk/test/system/test_interactions/basic_expect_and_return.yml
+END

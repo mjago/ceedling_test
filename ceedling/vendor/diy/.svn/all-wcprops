@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/ceedling/!svn/ver/93/trunk/vendor/diy
+END
+History.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/History.txt
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/Rakefile
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/README.rdoc
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/TODO.txt
+END
+diy.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/diy.gemspec
+END

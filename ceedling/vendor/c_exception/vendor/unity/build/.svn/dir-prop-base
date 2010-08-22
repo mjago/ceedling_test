@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 56
+*.txt
+*.exe
+*.obj
+*.testpass
+*.d79
+*.r43
+*.testfail
+*.c
+
+END

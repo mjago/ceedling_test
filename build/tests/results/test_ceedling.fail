@@ -1,0 +1,29 @@
+--- 
+:failures: 
+- :line: 27
+  :message: Expected TRUE Was FALSE
+  :test: test_1
+- :line: 32
+  :message: Expected TRUE Was FALSE
+  :test: test_2
+- :line: 37
+  :message: Expected TRUE Was FALSE
+  :test: test_3
+:stdout: []
+
+:counts: 
+  :ignored: 1
+  :total: 5
+  :passed: 1
+  :failed: 3
+:successes: 
+- :line: 18
+  :message: ""
+  :test: test_assert_true
+:source: 
+  :path: test
+  :file: test_ceedling.c
+:ignores: 
+- :line: 14
+  :message: ""
+  :test: Testassert_false

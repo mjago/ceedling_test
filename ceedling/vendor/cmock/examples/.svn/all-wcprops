@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/cmock/!svn/ver/185/trunk/examples
+END
+rakefile_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/cmock/!svn/ver/185/trunk/examples/rakefile_helper.rb
+END
+iar_v4.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/cmock/!svn/ver/168/trunk/examples/iar_v4.yml
+END
+rakefile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/cmock/!svn/ver/168/trunk/examples/rakefile.rb
+END
+iar_v5.yml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/cmock/!svn/ver/168/trunk/examples/iar_v5.yml
+END
+gcc.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/cmock/!svn/ver/185/trunk/examples/gcc.yml
+END

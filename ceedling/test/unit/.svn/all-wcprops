@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/ceedling/!svn/ver/95/trunk/test/unit
+END
+generator_test_runner_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/ceedling/!svn/ver/37/trunk/test/unit/generator_test_runner_test.rb
+END
+preprocessinator_includes_handler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ceedling/!svn/ver/9/trunk/test/unit/preprocessinator_includes_handler_test.rb
+END
+generator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/ceedling/!svn/ver/37/trunk/test/unit/generator_test.rb
+END
+tool_executor_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ceedling/!svn/ver/6/trunk/test/unit/tool_executor_helper_test.rb
+END
+tool_executor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/ceedling/!svn/ver/84/trunk/test/unit/tool_executor_test.rb
+END
+project_file_loader_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ceedling/!svn/ver/90/trunk/test/unit/project_file_loader_test.rb
+END
+preprocessinator_extractor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/ceedling/!svn/ver/9/trunk/test/unit/preprocessinator_extractor_test.rb
+END
+preprocessinator_file_handler_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ceedling/!svn/ver/9/trunk/test/unit/preprocessinator_file_handler_test.rb
+END
+task_invoker_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/89/trunk/test/unit/task_invoker_test.rb
+END
+test_includes_extractor_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ceedling/!svn/ver/39/trunk/test/unit/test_includes_extractor_test.rb
+END
+configurator_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ceedling/!svn/ver/39/trunk/test/unit/configurator_helper_test.rb
+END
+preprocessinator_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ceedling/!svn/ver/9/trunk/test/unit/preprocessinator_helper_test.rb
+END
+preprocessinator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ceedling/!svn/ver/9/trunk/test/unit/preprocessinator_test.rb
+END
+configurator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/89/trunk/test/unit/configurator_test.rb
+END
+deep_merge_fix_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/ceedling/!svn/ver/43/trunk/test/unit/deep_merge_fix_test.rb
+END
+file_system_utils_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ceedling/!svn/ver/2/trunk/test/unit/file_system_utils_test.rb
+END
+file_finder_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/ceedling/!svn/ver/29/trunk/test/unit/file_finder_helper_test.rb
+END
+generator_test_results_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ceedling/!svn/ver/39/trunk/test/unit/generator_test_results_test.rb
+END
+file_finder_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ceedling/!svn/ver/32/trunk/test/unit/file_finder_test.rb
+END
+configurator_validator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ceedling/!svn/ver/39/trunk/test/unit/configurator_validator_test.rb
+END
+configurator_builder_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/ceedling/!svn/ver/89/trunk/test/unit/configurator_builder_test.rb
+END
+streaminator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/27/trunk/test/unit/streaminator_test.rb
+END
+file_path_utils_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/ceedling/!svn/ver/43/trunk/test/unit/file_path_utils_test.rb
+END
+test_invoker_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/ceedling/!svn/ver/90/trunk/test/unit/test_invoker_helper_test.rb
+END
+dependinator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/90/trunk/test/unit/dependinator_test.rb
+END
+test_invoker_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/95/trunk/test/unit/test_invoker_test.rb
+END
+setupinator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ceedling/!svn/ver/90/trunk/test/unit/setupinator_test.rb
+END
+verbosinator_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ceedling/!svn/ver/4/trunk/test/unit/verbosinator_test.rb
+END

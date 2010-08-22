@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ceedling/!svn/ver/25/trunk/test/system/simple/include
+END
+stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/ceedling/!svn/ver/23/trunk/test/system/simple/include/stuff.h
+END
+other_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/ceedling/!svn/ver/23/trunk/test/system/simple/include/other_stuff.h
+END

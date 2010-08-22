@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/Rakefile
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/CHANGES
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/README
+END

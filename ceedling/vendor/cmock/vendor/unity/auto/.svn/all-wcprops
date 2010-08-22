@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/embunity/!svn/ver/90/trunk/auto
+END
+generate_config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/embunity/!svn/ver/50/trunk/auto/generate_config.yml
+END
+generate_module.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/embunity/!svn/ver/70/trunk/auto/generate_module.rb
+END
+generate_test_runner.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/embunity/!svn/ver/90/trunk/auto/generate_test_runner.rb
+END
+test_file_filter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/embunity/!svn/ver/70/trunk/auto/test_file_filter.rb
+END
+colour_prompt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/embunity/!svn/ver/70/trunk/auto/colour_prompt.rb
+END
+unity_test_summary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/embunity/!svn/ver/73/trunk/auto/unity_test_summary.rb
+END
+colour_reporter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/embunity/!svn/ver/70/trunk/auto/colour_reporter.rb
+END

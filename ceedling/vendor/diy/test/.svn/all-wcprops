@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/test/test_helper.rb
+END
+diy_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/test/diy_test.rb
+END
+constructor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/test/constructor.rb
+END
+factory_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/diy/test/factory_test.rb
+END

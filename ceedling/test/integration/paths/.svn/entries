@@ -1,0 +1,43 @@
+10
+
+dir
+99
+https://ceedling.svn.sourceforge.net/svnroot/ceedling/trunk/test/integration/paths
+https://ceedling.svn.sourceforge.net/svnroot/ceedling
+
+
+
+2010-01-30T01:34:30.205740Z
+19
+mkarlesky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f01913a8-9348-4cf6-9845-091d89bf350d
+
+build
+dir
+
+source
+dir
+
+tests
+dir
+
+main
+dir
+
+modules
+dir
+

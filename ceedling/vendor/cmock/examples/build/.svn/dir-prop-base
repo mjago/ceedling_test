@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 33
+*.exe
+*.testpass
+*.c
+*.r79
+*.out
+
+END

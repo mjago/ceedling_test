@@ -1,0 +1,175 @@
+--- 
+:release_compiler: 
+  :arguments: []
+
+:environment: 
+- :rake_columns: "120"
+:project: 
+  :test_file_prefix: test_
+  :build_root: build
+  :release_build: false
+  :use_mocks: true
+  :use_exceptions: true
+  :use_test_preprocessor: true
+  :verbosity: 3
+  :options_path: /dev/null
+  :use_auxiliary_dependencies: true
+:test_fixture: 
+  :link_objects: 
+  - CException.o
+  - cmock.o
+  :arguments: []
+
+:release_linker: 
+  :arguments: []
+
+:unity: 
+  :defines: 
+  - UNITY_INT_WIDTH=32
+  - UNITY_EXCLUDE_FLOAT
+:cmock: 
+  :defines: []
+
+  :mock_prefix: mock_
+  :plugins: 
+  - :cexception
+  :enforce_strict_ordering: true
+  :unity_helper: false
+  :verbosity: 3
+  :mock_path: build/tests/mocks
+:release_build: 
+  :use_assembly: false
+:release_assembler: 
+  :arguments: []
+
+:test_runner: 
+  :file_suffix: _runner
+  :includes: []
+
+:cexception: 
+  :defines: []
+
+:defines: 
+  :release: []
+
+  :test_preprocess: []
+
+  :release_preprocess: []
+
+  :test: []
+
+:test_includes_preprocessor: 
+  :arguments: []
+
+:release_dependencies_generator: 
+  :arguments: []
+
+:plugins: 
+  :base_path: ceedling/plugins
+  :enabled: 
+  - stdout_pretty_tests_report
+  :auxiliary_load_path: /dev/null
+  :display_raw_test_results: false
+:test_file_preprocessor: 
+  :arguments: []
+
+:tools: 
+  :test_fixture: 
+    :stderr_redirect: :auto
+    :name: default_test_fixture
+    :arguments: 
+    - $: TEST_FIXTURE_ARGUMENTS
+    :executable: ${1}
+  :test_includes_preprocessor: 
+    :stderr_redirect: :none
+    :name: default_test_includes_preprocessor
+    :arguments: 
+    - -MM
+    - -MG
+    - -I"$": "{SystemWrapper.is_windows? ? COLLECTION_PATHS_TEST_SUPPORT_SOURCE_INCLUDE : COLLECTION_PATHS_TEST_SUPPORT_SOURCE_INCLUDE.map{|path| path.gsub(/ /, '\\\\ ') }}"
+    - -D$: COLLECTION_DEFINES_TEST_AND_VENDOR
+    - -D$: DEFINES_TEST_PREPROCESS
+    - $: TEST_INCLUDES_PREPROCESSOR_ARGUMENTS
+    - -w
+    - -nostdinc
+    - "\"${1}\""
+    :executable: cpp
+  :test_file_preprocessor: 
+    :stderr_redirect: :none
+    :name: default_test_file_preprocessor
+    :arguments: 
+    - -E
+    - -I"$": COLLECTION_PATHS_TEST_SUPPORT_SOURCE_INCLUDE_VENDOR
+    - -I"$": PATHS_TEST_TOOLCHAIN_INCLUDE
+    - -D$: COLLECTION_DEFINES_TEST_AND_VENDOR
+    - -D$: DEFINES_TEST_PREPROCESS
+    - $: TEST_FILE_PREPROCESSOR_ARGUMENTS
+    - "\"${1}\""
+    - -o "${2}"
+    :executable: gcc
+  :test_compiler: 
+    :stderr_redirect: :none
+    :name: default_test_compiler
+    :arguments: 
+    - -I"$": COLLECTION_PATHS_TEST_SUPPORT_SOURCE_INCLUDE_VENDOR
+    - -I"$": COLLECTION_PATHS_TEST_TOOLCHAIN_INCLUDE
+    - -D$: COLLECTION_DEFINES_TEST_AND_VENDOR
+    - $: TEST_COMPILER_ARGUMENTS
+    - -c "${1}"
+    - -o "${2}"
+    :executable: gcc
+  :test_dependencies_generator: 
+    :stderr_redirect: :none
+    :name: default_test_dependencies_generator
+    :arguments: 
+    - -I"$": COLLECTION_PATHS_TEST_SUPPORT_SOURCE_INCLUDE_VENDOR
+    - -I"$": COLLECTION_PATHS_TEST_TOOLCHAIN_INCLUDE
+    - -D$: COLLECTION_DEFINES_TEST_AND_VENDOR
+    - -D$: DEFINES_TEST_PREPROCESS
+    - -MT "${3}"
+    - -MM
+    - -MD
+    - -MG
+    - -MF "${2}"
+    - $: TEST_DEPENDENCIES_GENERATOR_ARGUMENTS
+    - -c "${1}"
+    :executable: gcc
+  :test_linker: 
+    :stderr_redirect: :none
+    :name: default_test_linker
+    :arguments: 
+    - $: TEST_LINKER_ARGUMENTS
+    - "\"${1}\""
+    - -o "${2}"
+    :executable: gcc
+:test_compiler: 
+  :arguments: []
+
+:paths: 
+  :release_toolchain_include: []
+
+  :support: []
+
+  :source: 
+  - src/**
+  :test_toolchain_include: []
+
+  :include: []
+
+  :test: 
+  - test/**
+:test_dependencies_generator: 
+  :arguments: []
+
+:test_linker: 
+  :arguments: []
+
+:extension: 
+  :testfail: .fail
+  :header: .h
+  :object: .o
+  :assembly: .s
+  :dependencies: .d
+  :source: .c
+  :testpass: .pass
+  :executable: .out

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR
+END
+AT91SAM7X-EK.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/AT91SAM7X-EK.h
+END
+AT91SAM7X256.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/AT91SAM7X256.inc
+END
+AT91SAM7X256.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/AT91SAM7X256.rdf
+END
+lib_AT91SAM7X256.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/lib_AT91SAM7X256.h
+END
+ioat91sam7x256.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/ioat91sam7x256.h
+END
+AT91SAM7X256_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/AT91SAM7X256_inc.h
+END
+AT91SAM7X256.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cmock/!svn/ver/47/trunk/iar/iar_v4/incIAR/AT91SAM7X256.tcl
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock
+END
+stubbing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/stubbing.rb
+END
+trapper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/trapper.rb
+END
+utils.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/utils.rb
+END
+expectation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/expectation.rb
+END
+expectation_builder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/expectation_builder.rb
+END
+expector.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/expector.rb
+END
+mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/mock.rb
+END
+mock_control.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/mock_control.rb
+END
+method_cleanout.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/method_cleanout.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cmock/!svn/ver/6/trunk/vendor/hardmock/lib/hardmock/errors.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/rake_tasks
+END
+test.rake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/rake_tasks/test.rake
+END
+rdoc_options.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/rake_tasks/rdoc_options.rb
+END
+rdoc.rake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/ceedling/!svn/ver/2/trunk/vendor/hardmock/rake_tasks/rdoc.rake
+END
