@@ -1,16 +1,19 @@
 require 'plugin'
+require File.expand_path(
+                         File.join(File.dirname(__FILE__),'..','..',"vendor/unity/auto/colour_prompt.rb"))
 
-
-class StdoutPrettyTestsReport < Plugin
-  
+class StdoutColourTestsReport < Plugin
+    
   def setup
     @test_list = []
-    
+          
     @template = %q{
+      % @c = ColourCommandLine.new
       % ignored      = results[:counts][:ignored]
       % failed       = results[:counts][:failed]
       % stdout_count = results[:counts][:stdout]
       % if (ignored > 0)
+      <%=@c.change_to(:yellow)%>
       <%=@ceedling[:plugin_reportinator].generate_banner('IGNORED UNIT TEST SUMMARY')%>
       %   results[:ignores].each do |ignore|
       [<%=ignore[:source][:file]%>]
@@ -25,10 +28,12 @@ class StdoutPrettyTestsReport < Plugin
       %     end
       %   end
       % end
+      <%=@c.change_to(:default)%>
       % if (failed > 0)
+      <%=@c.change_to(:red)%>
       <%=@ceedling[:plugin_reportinator].generate_banner('FAILED UNIT TEST SUMMARY')%>
       %   results[:failures].each do |failure|
-      [<%=failure[:source][:file]%>]
+          [<%=failure[:source][:file]%>]
       %     failure[:collection].each do |item|
         Test: <%=item[:test]%>
       % if (not item[:message].empty?)
@@ -36,10 +41,10 @@ class StdoutPrettyTestsReport < Plugin
       % else
         At line (<%=item[:line]%>)
       % end
-
       %     end
       %   end
       % end
+      <%=@c.change_to(:default)%>
       % if (stdout_count > 0)
       <%=@ceedling[:plugin_reportinator].generate_banner('UNIT TEST OTHER OUTPUT')%>
       %   results[:stdout].each do |string|
@@ -54,15 +59,13 @@ class StdoutPrettyTestsReport < Plugin
       % format_string = "%#{total_string.length}i"
       <%=@ceedling[:plugin_reportinator].generate_banner('OVERALL UNIT TEST SUMMARY')%>
       % if (results[:counts][:total] > 0)
-      TESTED:  <%=results[:counts][:total].to_s%>
-      PASSED:  <%=sprintf(format_string, results[:counts][:passed])%>
-      FAILED:  <%=sprintf(format_string, failed)%>
-      IGNORED: <%=sprintf(format_string, ignored)%>
+      TOTAL: <%=sprintf(format_string, results[:counts][:total])%> <%=@c.change_to(:green) if (results[:counts][:passed] > 0)%> 
+      PASS: <%=sprintf(format_string, results[:counts][:passed].to_s)%> <%=@c.change_to(:red) if (results[:counts][:failed] > 0)%> 
+      FAIL: <%=sprintf(format_string, failed)%> <%=@c.change_to(:yellow) if (results[:counts][:ignored] > 0)%> 
+      TODO: <%=sprintf(format_string, ignored)%> <%=@c.change_to(:default)%>
       % else
-
       No tests executed.
       % end
-
       }.left_margin
   end
     
@@ -83,5 +86,5 @@ class StdoutPrettyTestsReport < Plugin
       message
     end
   end
-
 end
+ 
