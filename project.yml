@@ -15,7 +15,7 @@
 :plugins:
   :base_path: ceedling/plugins
   :enabled:
-    - stdout_pretty_tests_report 
+    - stdout_colour_tests_report 
 
 :cmock:
   :mock_prefix: mock_

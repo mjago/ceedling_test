@@ -22,7 +22,7 @@ void test_assert_true(void)
 }
 
 void test_baz_mock(void)
-{ 
+{
   baz_ExpectAndReturn(1,2, 3); // setup function from mock_bar.c that instructs our
   TEST_ASSERT_EQUAL(3, baz(1,2));
 
