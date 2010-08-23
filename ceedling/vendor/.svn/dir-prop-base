@@ -1,9 +1,0 @@
-K 13
-svn:externals
-V 203
-cmock https://cmock.svn.sourceforge.net/svnroot/cmock/trunk
-unity https://embunity.svn.sourceforge.net/svnroot/embunity/trunk
-c_exception https://cexception.svn.sourceforge.net/svnroot/cexception/trunk
-
-
-END

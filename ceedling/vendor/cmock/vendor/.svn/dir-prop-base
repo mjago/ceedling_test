@@ -1,7 +1,0 @@
-K 13
-svn:externals
-V 152
-unity          http://embunity.svn.sourceforge.net/svnroot/embunity/trunk
-c_exception    http://cexception.svn.sourceforge.net/svnroot/cexception/trunk
-
-END

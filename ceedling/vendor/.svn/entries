@@ -1,43 +1,0 @@
-10
-
-dir
-99
-https://ceedling.svn.sourceforge.net/svnroot/ceedling/trunk/vendor
-https://ceedling.svn.sourceforge.net/svnroot/ceedling
-
-
-
-2010-08-02T19:01:42.224456Z
-93
-mkarlesky
-has-props
-
-
-svn:externals
-
-
-
-
-
-
-
-
-
-
-f01913a8-9348-4cf6-9845-091d89bf350d
-
-behaviors
-dir
-
-constructor
-dir
-
-diy
-dir
-
-hardmock
-dir
-
-deep_merge
-dir
-

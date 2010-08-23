@@ -1,34 +1,0 @@
-10
-
-dir
-185
-https://cmock.svn.sourceforge.net/svnroot/cmock/trunk/vendor
-https://cmock.svn.sourceforge.net/svnroot/cmock
-
-
-
-2009-08-24T13:57:11.624960Z
-140
-mvandervoord
-has-props
-
-
-svn:externals
-
-
-
-
-
-
-
-
-
-
-bf332499-1b4d-0410-844d-d2d48d5cc64c
-
-behaviors
-dir
-
-hardmock
-dir
-
