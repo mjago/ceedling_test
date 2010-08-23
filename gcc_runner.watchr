@@ -38,3 +38,4 @@ TestPaths.constants.map do |c|
     run_rake 
   end 
 end
+ 
